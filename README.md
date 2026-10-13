@@ -23,12 +23,10 @@ The project demonstrates an end-to-end data analytics workflow including data cl
 
 - **Python**
   - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
+
 
 - **SQL**
-  - Data querying
+  - Find Business problem Questions
   - Aggregations
   - Business analysis
 
@@ -47,11 +45,11 @@ Customer-Behavior-Data-Analytics-Dashboard/
 ├── Dataset/
 │   └── customer_data.csv
 │
-├── SQL/
-│   └── analysis_queries.sql
-│
 ├── Python/
 │   └── data_analysis.ipynb
+│
+├── MySQL/
+│   └── analysis_queries.sql
 │
 ├── PowerBI/
 │   └── Customer_Behavior_Dashboard.pbix
