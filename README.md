@@ -143,9 +143,8 @@ Execute the SQL queries in your preferred SQL environment.
 
 ## 📸 Dashboard Preview
 
-Add dashboard screenshots here:
+<img width="1440" height="817" alt="image" src="https://github.com/user-attachments/assets/c729e777-6495-4143-93df-00b1fd851a0e" />
 
-Images/dashboard_screenshot.png
 
 ---
 
@@ -161,15 +160,9 @@ This project helps businesses:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Analyst by 
 
 **Vignesh Sundaramurthi**
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/vignesh-s-3027a9386/?isSelfProfile=true
 - GitHub: https://github.com/VigneshSundaramurthi
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
